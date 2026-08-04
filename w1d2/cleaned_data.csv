@@ -1,0 +1,159 @@
+District,State,Growth,Sex_Ratio,Literacy
+Thane,Maharashtra,36.01,886,84.53
+North Twenty Four Parganas,West Bengal,12.04,955,84.06
+Bangalore,Karnataka,47.18,916,87.67
+Pune,Maharashtra,30.37,915,86.15
+Mumbai Suburban,Maharashtra,8.29,860,89.91
+Ahmadabad,Gujarat,24.03,904,85.31
+Nashik,Maharashtra,22.3,934,82.31
+Surat,Gujarat,42.24,787,85.53
+Hugli,West Bengal,9.46,961,81.8
+Purba Medinipur,West Bengal,15.36,938,87.02
+Haora,West Bengal,13.5,939,83.31
+Nagpur,Maharashtra,14.4,951,88.39
+Chennai,Tamil Nadu,6.98,989,90.18
+Kolkata,West Bengal,-1.67,908,86.31
+Malappuram,Kerala,13.45,1098,93.57
+Kancheepuram,Tamil Nadu,38.95,986,84.49
+Hyderabad,Andhra Pradesh,2.97,954,83.25
+Kolhapur,Maharashtra,10.01,957,81.51
+Rajkot,Gujarat,20.02,927,80.96
+Thiruvallur,Tamil Nadu,35.33,987,84.03
+North West Delhi,Delhi,27.81,865,84.45
+Ludhiana,Punjab,15.36,873,82.2
+Coimbatore,Tamil Nadu,18.56,1000,83.98
+Thiruvananthapuram,Kerala,2.07,1087,93.02
+Ernakulam,Kerala,5.69,1027,95.89
+Indore,Madhya Pradesh,32.88,928,80.87
+Thrissur,Kerala,4.94,1108,95.08
+Kozhikode,Kerala,7.2,1098,95.08
+Mumbai City,Maharashtra,-7.57,832,89.21
+Tirunelveli,Tamil Nadu,12.97,1023,82.5
+Madurai,Tamil Nadu,17.84,990,83.45
+Satara,Maharashtra,6.93,988,82.87
+Amravati,Maharashtra,10.79,951,87.38
+Sangli,Maharashtra,9.24,966,81.48
+Palakkad,Kerala,7.35,1067,89.31
+Yavatmal,Maharashtra,12.78,952,82.82
+South Delhi,Delhi,20.51,862,86.57
+Tiruchirappalli,Tamil Nadu,12.57,1013,83.23
+Kollam,Kerala,1.94,1113,94.09
+Raigarh,Maharashtra,19.31,959,83.14
+Cuttack,Orissa,12.1,940,85.5
+Buldana,Maharashtra,15.85,934,83.4
+West Delhi,Delhi,19.46,875,86.98
+Kannur,Kerala,4.73,1136,95.1
+Jabalpur,Madhya Pradesh,14.51,929,81.07
+Thanjavur,Tamil Nadu,8.56,1035,82.64
+Bhopal,Madhya Pradesh,28.62,918,80.37
+Kheda,Gujarat,13.62,940,82.65
+South West Delhi,Delhi,30.65,840,88.28
+Khordha,Orissa,19.94,929,86.88
+North East Delhi,Delhi,26.78,886,83.09
+Chandrapur,Maharashtra,6.43,961,80.01
+Jalandhar,Punjab,11.76,915,82.48
+Alappuzha,Kerala,0.88,1100,95.72
+Anand,Gujarat,12.7,925,84.37
+Dakshina Kannada,Karnataka,10.11,1020,88.57
+Mahesana,Gujarat,10.73,926,83.61
+Kottayam,Kerala,1.07,1039,97.21
+Virudhunagar,Tamil Nadu,10.91,1007,80.15
+Kanniyakumari,Tamil Nadu,11.6,1019,91.75
+Jajapur,Orissa,12.49,973,80.13
+Akola,Maharashtra,11.27,946,88.05
+Faridabad,Haryana,32.54,873,81.7
+Shimoga,Karnataka,6.71,998,80.45
+Thoothukkudi,Tamil Nadu,11.32,1023,86.16
+West Tripura,Tripura,12.57,962,88.69
+East Delhi,Delhi,16.79,884,89.31
+Puri,Orissa,13.05,963,84.67
+Dehradun,Uttarakhand,32.33,902,84.25
+Gautam Buddha Nagar,Uttar Pradesh,37.11,851,80.12
+Nagapattinam,Tamil Nadu,8.57,1025,83.59
+Ratnagiri,Maharashtra,-4.82,1122,82.18
+Hoshiarpur,Punjab,7.11,961,84.59
+Bharuch,Gujarat,13.16,925,81.51
+Jammu,Jammu and Kashmir,12.74,880,83.45
+Gurgaon,Haryana,73.96,854,84.7
+Kangra,Himachal Pradesh,12.77,1012,85.67
+Bhadrak,Orissa,12.94,981,82.78
+Kendrapara,Orissa,10.63,1007,85.15
+Uttara Kannada,Karnataka,6.17,979,84.06
+Gandhinagar,Gujarat,4.29,923,84.16
+Ramanathapuram,Tamil Nadu,13.96,983,80.72
+Navsari,Gujarat,8.15,961,83.88
+Gondiya,Maharashtra,10.14,999,84.95
+Kasaragod,Kerala,8.58,1080,90.09
+Wardha,Maharashtra,5.18,946,86.99
+Thiruvarur,Tamil Nadu,8.11,1017,82.86
+Kamrup Metropolitan,Assam,18.34,936,88.71
+Bhandara,Maharashtra,5.65,982,83.76
+Pathanamthitta,Kerala,-2.97,1132,96.55
+Washim,Maharashtra,17.34,930,83.25
+Udupi,Karnataka,5.85,1094,86.24
+Sivasagar,Assam,9.44,954,80.41
+Jagatsinghapur,Orissa,7.5,968,86.59
+Ambala,Haryana,11.23,885,81.75
+Idukki,Kerala,-1.79,1006,91.99
+Jorhat,Assam,9.31,962,82.15
+Rohtak,Haryana,12.88,867,80.22
+Chandigarh,Chandigarh,17.19,818,86.05
+Mandi,Himachal Pradesh,10.92,1007,81.53
+Mohali,Punjab,33.15,879,83.8
+Nayagarh,Orissa,11.37,915,80.42
+Jhajjar,Haryana,8.9,862,80.65
+Nainital,Uttarakhand,25.13,934,83.88
+Puducherry,Puducherry,29.23,1029,85.44
+Rewari,Haryana,17.64,898,80.99
+North Delhi,Delhi,13.62,869,86.85
+South Tripura,Tripura,14.15,957,84.66
+Sindhudurg,Maharashtra,-2.21,1036,85.56
+East Khasi Hills,Meghalaya,24.96,1011,84.15
+North Goa,Goa,7.84,963,89.57
+Wayanad,Kerala,4.71,1035,89.03
+Shimla,Himachal Pradesh,12.67,915,83.64
+The Nilgiris,Tamil Nadu,-3.51,1042,85.2
+North Tripura,Tripura,17.44,967,87.5
+Pauri Garhwal,Uttarakhand,-1.41,1103,82.02
+Rupnagar,Punjab,8.87,915,82.19
+South Goa,Goa,8.73,986,87.59
+Almora,Uttarakhand,-1.28,1139,80.47
+Central Delhi,Delhi,-9.91,892,85.14
+Solan,Himachal Pradesh,15.93,880,83.68
+Panchkula,Haryana,19.83,873,81.88
+Kodagu,Karnataka,1.09,1019,82.61
+Una,Himachal Pradesh,16.26,976,86.53
+Imphal West,Manipur,16.56,1031,86.08
+Pithoragarh,Uttarakhand,4.58,1020,82.25
+Imphal East,Manipur,15.51,1017,81.95
+Hamirpur,Himachal Pradesh,10.19,1095,88.15
+Aizawl,Mizoram,22.92,1009,97.89
+Chamoli,Uttarakhand,5.74,1019,82.65
+Bilaspur,Himachal Pradesh,12.05,981,84.59
+Dimapur,Nagaland,127.29,919,84.79
+Dhalai,Tripura,22.85,944,85.72
+Samba,Jammu and Kashmir,17.01,886,81.41
+East Sikkim,Sikkim,15.73,873,83.85
+Churachandpur,Manipur,20.29,975,82.78
+Kohima,Nagaland,131.81,928,85.23
+Bageshwar,Uttarakhand,4.18,1090,80.01
+Rudraprayag,Uttarakhand,6.53,1114,81.3
+South Andaman,Andaman And Nicobar Islands,14.23,871,89.13
+Karaikal,Puducherry,17.23,1047,87.05
+Mokokchung,Nagaland,60.94,925,91.62
+Daman,Daman and Diu,67.71,534,88.07
+Ukhrul,Manipur,30.7,943,81.35
+Wokha,Nagaland,98.81,968,87.69
+Lunglei,Mizoram,17.64,947,88.86
+South Sikkim,Sikkim,11.65,915,81.42
+New Delhi,Delhi,-20.72,822,88.34
+Zunheboto,Nagaland,78.05,976,85.26
+Champhai,Mizoram,16.01,984,95.91
+North And Middle Andaman,Andaman And Nicobar Islands,-0.02,925,83.91
+Mamit,Mizoram,37.56,927,84.93
+Kolasib,Mizoram,27.28,956,93.5
+Serchhip,Mizoram,20.56,977,97.91
+Lakshadweep,Lakshadweep,6.3,946,91.85
+Saiha,Mizoram,-7.34,979,90.01
+Diu,Daman and Diu,17.77,1031,83.46
+Mahe,Puducherry,13.54,1184,97.87
