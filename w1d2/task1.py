@@ -21,7 +21,7 @@ print("\n3. Data Types")
 print(df.dtypes)
 
 # 4. First 10 Rows
-print("\n4. First 10 Rows")
+print("\n4. printing the first 10 Rows")
 print(df.head(10))
 
 # 5. Filter
@@ -122,4 +122,3 @@ parquet_size = os.path.getsize("cleaned_data.parquet")
 print("CSV File Size:", csv_size, "bytes")
 print("Parquet File Size:", parquet_size, "bytes")
 
-print("\nAssignment Completed Successfully!")
